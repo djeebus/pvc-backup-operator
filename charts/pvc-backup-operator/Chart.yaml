@@ -1,0 +1,6 @@
+apiVersion: v2
+name: pvc-backup-operator
+version: 0.1.0
+maintainers:
+  - name: djeebus
+    email: joe@djeebus.net
